@@ -2,7 +2,7 @@
 
 # Risk register
 | ID | DATE |**Risk description**  | **Likelihood of the risk occurring** | **Impact if the risk occurrs** | **Severity**_Rating based on impact & likelihood._ | **Owner**_Person who will manage the risk._ | **Mitigating action**_Actions to mitigate the risk e.g. reduce the likelihood._ |  **Status**|
-|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|
 | 1 | [25-10-2021] | Project purpose and need is not well-defined |  Medium|Low  | Medium| Project Sponsor |Complete a business case if not already provided and ensure purpose is well defined on Project Charter and PID.  |Open |
 | 2 |[29-10-2021]  | User interface is not friendly. |High  |  High| High |UX designers  | UX designers will implement interface design workshops for software developers to identify the usability concept | Open |  
 |3|[01-11-2021] | Connection to the websites may breakdown|High|High|Medium|Internet Officer|Strengthen the internet connection or distribute the connection into different ports|Open|
